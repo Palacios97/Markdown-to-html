@@ -8,10 +8,7 @@ background-color:rgb(114, 107, 101)
         border: 3px solid;
         color:rgb(23, 23, 116)
       }
-      ol{
-        list-style-type:lower-roman;
-
-     }
+      
      li{
          list-style-type:disc
      }
